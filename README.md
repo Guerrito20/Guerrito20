@@ -8,8 +8,6 @@
 - 🌱 Estudando? Estou estudando React e SASS
 
 
--->
-
 <div >
  <a href='https://github.com/Guerrito20'>
 <img height='150em' src="https://github-readme-stats.vercel.app/api?username=Guerrito20&hide=stars,prs&show_icons=true&theme=radical&include_all_commits=true" />
@@ -22,33 +20,36 @@
 
 
 ## Tecnologias que possuo conhecimento: <br>
-<div>
+<div style='display: inline_block;'>
  
  
- <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img align= 'center' width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  &nbsp;
- <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align= 'center' width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  &nbsp;
- <img width='70em'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ <img align= 'center' width='60em'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  </div>
  
  
  
  ## Tenologias em aprendizado e estudo: <br>
  <div>
-  <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align= 'center' width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    &nbsp;
-  <img width='70em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align= 'center' width='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   
  </div>
  
  ## Contatos:
  
  <div>
-  <a href= 'driinkssz@gmail.com'>
+  <a href= 'https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMTJNVfJlxpmLcnssdbqQCBLThrHSCSnKvSZhGQgpHVqTrlfGwjSDHfTvVldldgjkpCqSG' target='_blank'>
   <img height='30em' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
   
+  <a href= 'https://www.linkedin.com/in/rafael-guerra-rodrigues-1571a0202/' target='_blank'>
+   <img height='30em' src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
   
  </div>
  
