@@ -10,5 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guerrito20&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img height='150em' src="https://github-readme-stats.vercel.app/api?username=Guerrito20&hide=stars,prs&show_icons=true&theme=radical&include_all_commits=true" />
+ 
+ <img height='150em'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guerrito20&layout=compact&langs_count=16&theme=radical" />
+</div>
