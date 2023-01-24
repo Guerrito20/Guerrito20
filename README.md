@@ -1,10 +1,10 @@
 # Seja bem vindo ao meu GitHub!!
 
  ### Sobre mim:
-<p> Olá, meu nome é Rafael,tenho 20 anos e sou estudante autodidata de programação, aqui está algumas informações sobre mim: </p>
+<p> Olá, meu nome é Rafael,tenho 20 anos e sou estudante de programação, aqui está algumas informações sobre mim: </p>
  
  - 😄 Pronomes: Ele/Dele
-- 🔭 Area de atuação: Estou querendo atuar na area de Front-end
+- 🔭 Area de atuação: Estou querendo atuar na area de  desenvolvimento Front-end
 - 🌱 Estudando? Estou estudando React e SASS
 
 
@@ -49,6 +49,10 @@
   
   <a href= 'https://www.linkedin.com/in/rafael-guerra-rodrigues-1571a0202/' target='_blank'>
    <img height='30em' src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
+  
+  <a href='https://wa.me/5551984887129' target="_blank">
+   <img height='30em' src= 'https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'>
   </a>
   
  </div>
